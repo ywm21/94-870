@@ -1,3 +1,5 @@
 # 94-870
+Telling Stories with Data (Fall 2019)
 
-Link to Github Pages: https://ywm21.github.io/94-870/
+# Link to my Github Pages page
+https://ywm21.github.io/94-870/
