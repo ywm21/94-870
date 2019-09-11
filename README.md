@@ -8,5 +8,5 @@ Hello! I'm a student in the Telling Stories with Data course. Currently, I'm a g
 By taking this course I hope to learn how to design simple yet meaningful visualizations of complex data sets. I hope to understand how to convey the most amount of information about a dataset to my audience through simple visualization techniques. After taking this course, I hope to go beyond bar graphs and pie charts.
 
 # Portfolio
-You can find all my coursework over here: https://ywm21.github.io/94-870/
+You can find all my coursework over here: https://ywm21.github.io/94-870/  
 Additional coursework can be found here: https://ywm21.github.io/94-870/dataviz2
