@@ -9,3 +9,4 @@ By taking this course I hope to learn how to design simple yet meaningful visual
 
 # Portfolio
 You can find all my coursework over here: https://ywm21.github.io/94-870/
+Additional coursework can be found here: https://ywm21.github.io/94-870/dataviz2
