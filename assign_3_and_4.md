@@ -18,3 +18,6 @@ The wireframe:
 
 The critique I recieved for the wireframe was very insighful. My friends had no idea that humans themeselves were such a deadly animal. And they were even more surpised that mosquitoes were responsible for almost 0.75 millions human deaths every year. They expected to see more deadly animals make it to the top of the list. The bar chart was very easy to understand for both of them and it got the point across very easily. In context of the article, it made the point very clearly. The only confusing part to them was why I clubbed a lot of animals into one category and why snakes had their own category. Were snakes somehow relevant to the article? One of them suggested that I club the animals based on the type of species. I don't fully agree with that since that would deviate from the main takeaway of the graph. Otherwise they said that I should just keep three categories in that case - humans, mosquitoes and others. And that making a sidenote of what others comprised of would be more effective. I think I can definitely incorporate that into the final product of my visualization.  
 
+Based on all the feedback I have recieved, here is the final data visulization that I have produced:  
+
+![FinalViz](https://raw.githubusercontent.com/ywm21/94-870/master/assign3_4.jpg)
