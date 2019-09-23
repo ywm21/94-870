@@ -1,10 +1,10 @@
 ## Final Project Page  
 
-# Outline  
+### Outline  
 
-# Inital Sketches  
+### Inital Sketches  
 
-# Data  
+### Data  
 
-# Method and Medium  
+### Method and Medium  
 
