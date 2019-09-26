@@ -8,9 +8,20 @@ For my final project, I wanted to discuss the global inequalities in CO<sub>2</s
 
 To develop the aforementioned questions into a story, it is important to give it structure. The **setup** of this story is that CO<sub>2</sub> emissions are on the rise. And that makes sense because the global population is growing strongly and the desire for a better lifestyle is fundamental to human rationality. The **conflict** in this story is that developing countries, with larger populations, are responsible for lesser emissions than developed countries, with lower populations. The **resolution** here would be that population is not the main factor that is responsible for emissions, but lifestyle is. Countries with a higher income level tend to pollute a lot more than countries with a poorer population. 
 
+The setup, conflict and the resolution are the major elements of the story arc here. The call to action here is to understand that with more money we cause so many more environmental problems. It is something that we should all be cognizant about.  
+
 ### Inital Sketches  
 
+I have drawn sketches for the three major points of my story arc. Each sketch builds on a certain aspect of the story. I hope to convert these into visualizations for the final deliverable.
 
+![SETUP](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/setup_sketch.jpg)  
+Setup Sketch  
+
+![CONFLICT](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/conflict_sketch.jpg)  
+Conflict Sketch  
+
+![RESOLUTION](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/resolution_sketch.jpg)  
+Resolution Sketch  
 
 ### Data  
 
@@ -27,9 +38,8 @@ https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#per-capita-co2
 https://ourworldindata.org/grapher/projected-population-by-country  
 
 Link to my dataset:  
-https://raw.githubusercontent.com/ywm21/94-870/master/Project_Dataset.xlsx  
+https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Project_Dataset.xlsx
 
 ### Method and Medium  
 
-
-
+For my final deliverable, I would like to use Shorthand as my medium. I will use the datasets mentioned above and the story outline to create a presentation that will deliver me message in a persuasive manner.
