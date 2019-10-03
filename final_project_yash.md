@@ -7,7 +7,6 @@
 4. Method and Medium
 5. Storyboard (Part II)  
 6. User Research (Part II)  
-7. Further Notes (Part II)  
 
 ### 1. Outline (Updated for Part II) 
 
