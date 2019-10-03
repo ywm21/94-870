@@ -5,9 +5,9 @@
 2. Initial Sketches
 3. Data
 4. Method and Medium
-5. Storyboard
-6. User Research
-7. Further Notes
+5. Storyboard (Part II)  
+6. User Research (Part II)  
+7. Further Notes (Part II)  
 
 ### 1. Outline (Updated for Part II) 
 
@@ -64,22 +64,27 @@ Macro Outline of Storyboard
 
 ### 6. User Research Protocol  
 
-**Target Audience:** The target audience for this presentation could be anyone. Since it is a global issue, almost anyone will understand it. While every viewer's opinion about the issue may not be the same, they are all definitely part of the target audience. [ADD SOME MORE]  
+**Target Audience:** The target audience for this story could be anyone. Since it is a global issue, almost anyone will relate to it. While every viewer's opinion about the issue may not be the same, they are all definitely part of the target audience.    
 
 **Identifying Representative Individuals to Interview:** Since this is a presentation about various countries, I would ideally like to interview people from varied nationalities. One individual from a developed country, one from a developing country and one from a low income country. This should give me a wholistic review of my storyboard and an well-rounded opinion about the clarity of the message. Most importantly, I want individuals who have some experience in statistics and data visualization. I want to find out if my charts are able to communicate my ideas and if not, I want some technical feedback on how I can do that. 
 
 **Interview Script:**  
 1. Would you characterize your home country as developed, developing or a low-income nation?  
 2. Have you studied some form of statistics before? If so, do you have some basic knowledge about data visualization?  
-Show them the storyboard now.  
+**Show them the storyboard now.**  
 3. Do you feel that this presentation does a good job at building a story logically and impactfully?  
 4. Did you feel like you were losing interest at any point?  
 5. Was the story moving too fast/slow?  
 6. Are there any charts you would like to change?  
 7. Any other recommendations that you have?  
 
-**Findings from the Interviews:** The interviews were interesting but based on those, there was nothing major that I had to change. Here are some excerpts from each interview:  
+**Findings from the Interviews:** It is important to keep in mind that with each consecutive interview, I got better at presenting my storyboard, so there can be a difference in how well the presentation was explained between interviewees. Here are some excerpts from each interview:  
 
 1. This interviewee is from a developing country with a large population. The interviewee is a junior from Dietrich College, majoring in Statistics. The interviewee believes that the storyboard does a good job at building the story logically, but the time allocated to the presentation is too short to make any significant impact. The interviewee was not losing interest at any point, but said that things were moving too fast and that he/she didn't get enough time to review the charts. The interviewee also said that population charts have too much content on them and that he/she was barely able to read the axis before I had to move on to the next wireframe. The interviewee recommended that I trim down the content on the population charts.  
 
-2. This interviewee is from a developed country with a very small population. The interviewee is a MISM graduate student at the Heinz College. The interviewee has done several statistics courses during his/her undergraduate education. 
+2. This interviewee is from a developed country with a very small population. The interviewee is a MISM graduate student at the Heinz College. The interviewee has done several statistics courses during his/her undergraduate education. The interviewee feels that the flow of the story is a bit confusing since, the first 2 wireframes talk about a country, India. But the charts after that talk in terms of continents. This interviewee found the presentation impactful though, especially the last chart. The interviewee was not losing interest through the presentation but found that the story was moving too fast. "There is too much to tell in very little time" said the interviewee. The interviwee recommended that I change the caption of all my wireframes to the main takeaway of that wireframe. I agree with this as it would definitely improve absorption of all the details for all the viewers.  
+
+3. This interviewee is from a low income country with a small population. The interviewee is a senior at Tepper School, majoring in  Business Management. The interviewee is also pursuing a double major in Statistics and has taken courses in data visualization. The interviewee believes that the storyboard is logical and to the point. The interviewee was not losing interest at any point but felt that the presentation was a little fast. "For someone who has background knowledge of the Paris Climate Agreement, this would not be very fast. For everyone else, it is a bit fast", said the interviewee. The interviewee recommended that I mention the Paris Climate Agreement in the introductory slides because he was blindsided when it showed up at the very end. The interviewee also recommended that I present my call-to-action at the start of the presentation and at the end. I agree with this.  
+
+**Changes to Implement:**  
+
