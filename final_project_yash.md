@@ -1,4 +1,13 @@
-## Final Project Page (Part 1)  
+## Final Project Page (Part 2)  
+
+### Table of Contents:  
+1. Outline
+2. Initial Sketches
+3. Data
+4. Method and Medium
+5. Storyboard
+6. User Research
+7. Further Notes
 
 ### Outline  
 
