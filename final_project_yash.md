@@ -62,4 +62,24 @@ Macro Outline of Storyboard
 ![SB_2](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Storyboard_2.png)  
 ![SB_3](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Storyboard_3.png)  
 
+### 6. User Research Protocol  
 
+**Target Audience:** The target audience for this presentation could be anyone. Since it is a global issue, almost anyone will understand it. While every viewer's opinion about the issue may not be the same, they are all definitely part of the target audience. [ADD SOME MORE]  
+
+**Identifying Representative Individuals to Interview:** Since this is a presentation about various countries, I would ideally like to interview people from varied nationalities. One individual from a developed country, one from a developing country and one from a low income country. This should give me a wholistic review of my storyboard and an well-rounded opinion about the clarity of the message. Most importantly, I want individuals who have some experience in statistics and data visualization. I want to find out if my charts are able to communicate my ideas and if not, I want some technical feedback on how I can do that. 
+
+**Interview Script:**  
+1. Would you characterize your home country as developed, developing or a low-income nation?  
+2. Have you studied some form of statistics before? If so, do you have some basic knowledge about data visualization?  
+Show them the storyboard now.  
+3. Do you feel that this presentation does a good job at building a story logically and impactfully?  
+4. Did you feel like you were losing interest at any point?  
+5. Was the story moving too fast/slow?  
+6. Are there any charts you would like to change?  
+7. Any other recommendations that you have?  
+
+**Findings from the Interviews:** The interviews were interesting but based on those, there was nothing major that I had to change. Here are some excerpts from each interview:  
+
+1. This interviewee is from a developing country with a large population. The interviewee is a junior from Dietrich College, majoring in Statistics. The interviewee believes that the storyboard does a good job at building the story logically, but the time allocated to the presentation is too short to make any significant impact. The interviewee was not losing interest at any point, but said that things were moving too fast and that he/she didn't get enough time to review the charts. The interviewee also said that population charts have too much content on them and that he/she was barely able to read the axis before I had to move on to the next wireframe. The interviewee recommended that I trim down the content on the population charts.  
+
+2. This interviewee is from a developed country with a very small population. The interviewee is a MISM graduate student at the Heinz College. The interviewee has done several statistics courses during his/her undergraduate education. 
