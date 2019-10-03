@@ -1,7 +1,7 @@
 ## Final Project Page (Part 2)  
 
 ### Table of Contents:  
-1. Outline
+1. Outline (Updated for Part II)
 2. Initial Sketches
 3. Data
 4. Method and Medium
@@ -9,15 +9,15 @@
 6. User Research
 7. Further Notes
 
-### Outline  
+### 1. Outline (Updated for Part II) 
 
-For my final project, I wanted to discuss CO<sub>2</sub> emissions around the globe. The Paris Climate Agreement was signed in 2016 by 196 countries to curb the effects of global warming. Each signatory country had to reduce their footprint to achieve a larger goal across the globe. In theory, developing economies need to burn more coal and other fossil fuels to grow their economy and supply energy to a larger population. Thus, one would expect that developing economies would have proportionally higher emissions (larger population and higher growth rates) than developed economies. But is that really the case? I am going to examine this from an income level perspective and a regional perspective.  
+For my final project, I wanted to discuss CO<sub>2</sub> emissions around the globe. The Paris Climate Agreement was signed in 2016 by 196 countries to curb the effects of global warming. Each signatory country had to reduce their footprint to achieve a larger goal across the globe. Consider the population of developing economy like India: it's over 17% of the world's population. In theory, developing economies need to burn more coal and other fossil fuels to grow their economy and supply energy to a larger population. And as an Indian, I understand the urgency of power generation in my country. Even today, a fifth of India's population (239 million people) does not have access to electricty. In terms of emissions, one would expect that developing economies would have proportionally higher emissions (larger population and higher growth rates) than developed economies. And thus using an agreement like the one signed in Paris to curb emissions caused by developing economies makes sense. But are developing economies like India really responsible for the majority of global emissions?
 
-To develop the aforementioned questions into a story, it is important to give it structure. The **setup** of this story is that CO<sub>2</sub> emissions are on the rise. And that makes sense because the global population is growing strongly and the desire for a better lifestyle is fundamental to human rationality. The **conflict** in this story is that developing countries, with larger populations, are responsible for lesser emissions than developed countries, with lower populations. The **resolution** here would be that population is not the main factor that is responsible for emissions, but lifestyle is. Countries with a higher income level tend to pollute a lot more than countries with a poorer population. 
+To develop the aforementioned question into a story, it is important to give it structure. The **setup** of this story is that India holds over 18% of the world's population. And logically, one would expect India or China to have the largest CO<sub>2</sub> emissions. The **conflict** in this story is that developing countries, with larger populations, are responsible for lesser emissions than developed countries, with lower populations. Clearly, population and growth are not proportional to emissions. The **resolution** here would be that population is not the main factor that is responsible for emissions, but income level is. Countries with a higher income level tend to pollute a lot more than countries with a poorer population. 
 
-The setup, conflict and the resolution are the major elements of the story arc here. The call to action here is to understand that with more money we cause so many more environmental problems. It is something that we should all be cognizant about.  
+The setup, conflict and the resolution are the major elements of the story arc here. The call to action here is that the Paris Climate Agreemnt is unfair to developing countries like India and China which are still making their way to higher income levels and supporting such massive population levels.  
 
-### Inital Sketches  
+### 2. Inital Sketches  
 
 I have drawn sketches for the three major points of my story arc. Each sketch builds on a certain aspect of the story. I hope to convert these into visualizations for the final deliverable.
 
@@ -30,7 +30,7 @@ Conflict Sketch
 ![RESOLUTION](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/resolution_sketch.jpg)  
 Resolution Sketch (Picture wasn't rotating properly, sorry about that)  
 
-### Data  
+### 3. Data  
 
 The data is sourced from ourwoldindata.org, a website that is maintained by the University of Oxford and the Global Change Data Lab. The data found on this website has been sourced from publicly available datasets offered by the World Bank, the Global Carbon Project, Carbon Dioxide Information Analysis Center and the UN. I collected multiple data files from the website and picked out all the parts that are relevant to my story in a new file. The final data file I intend to use has been uploaded to my Github repository (link below).  
 
@@ -47,9 +47,19 @@ https://ourworldindata.org/grapher/projected-population-by-country
 Link to my dataset:  
 https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Project_Dataset.xlsx
 
-### Method and Medium  
+### 4. Method and Medium  
 
 For my final deliverable, I would like to use Shorthand as my medium. I will use the datasets mentioned above and the story outline to create a presentation that will deliver me message in a persuasive manner. I will use Shorthand to create charts for the next part of the project and then get user feedback to improve/edit them.  
 
 The first part of the presentation will be used to build tension. I want to slowly reveal the difference in emissions from 1840 to 2016, thus building some suspense for the audience. I will use animation to achieve this. And when I show the next two charts, I want to reconstruct them so that my logic holds for the entire audience and my call to action is well absorbed. I will do this by showing each continent on the chart one after the other.  
+
+### 5. Storyboard  
+
+![MACRO](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Macro_Outline.png)  
+Macro Outline of Storyboard  
+
+![SB_1](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Storyboard_1.png)  
+![SB_2](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Storyboard_2.png)  
+![SB_3](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Storyboard_3.png)  
+
 
