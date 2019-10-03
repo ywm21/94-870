@@ -65,11 +65,11 @@ Macro Outline of Storyboard
 
 **Target Audience:** The target audience for this story could be anyone. Since it is a global issue, almost anyone will relate to it. While every viewer's opinion about the issue may not be the same, they are all definitely part of the target audience.    
 
-**Identifying Representative Individuals to Interview:** Since this is a presentation about various countries, I would ideally like to interview people from varied nationalities. One individual from a developed country, one from a developing country and one from a low income country. This should give me a wholistic review of my storyboard and an well-rounded opinion about the clarity of the message. Most importantly, I want individuals who have some experience in statistics and data visualization. I want to find out if my charts are able to communicate my ideas and if not, I want some technical feedback on how I can do that. 
+**Identifying Representative Individuals to Interview:** Since this is a presentation about various countries, I would ideally like to interview people from varied nationalities. One individual from a developed country, one from a developing country and one from a low income country. This should give me a wholistic review of my storyboard and a well-rounded opinion about the clarity of the message. Most importantly, I want individuals who have some experience in statistics and data visualization. I want to find out if my charts are able to communicate my ideas and if not, I want some technical feedback on how I can do that. 
 
 **Interview Script:**  
 1. Would you characterize your home country as developed, developing or a low-income nation?  
-2. Have you studied some form of statistics before? If so, do you have some basic knowledge about data visualization?  
+2. Have you studied statistics before? If so, do you have some basic knowledge about data visualization?  
 **Show them the storyboard now.**  
 3. Do you feel that this presentation does a good job at building a story logically and impactfully?  
 4. Did you feel like you were losing interest at any point?  
@@ -96,7 +96,7 @@ Revision of Wireframe 4
 
 3. I also think that mentioning the Paris Climate Agreement in the beginning is a good idea. I could just incorporate it into the title slide, along with the call-to-action as I would like to it at the start of the presentation as well as the end.  
 
-4. I have also removed the world map chart where I was trying to show the scale of the population in Asia. I think it's fairly obvious to most people. Removing it will also free up valuable time.  
+4. I have also removed the world map chart where I was trying to show the scale of the population in Asia. I think it's fairly obvious to most people. Removing it will also free up valuable time. And since every interviewee said that the story was too fast, I think this is a much needed revision.  
 
 **Here is a new storyboard outline with the aforementioned changes:**  
 
