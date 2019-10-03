@@ -95,4 +95,10 @@ Revision of Wireframe 4
 
 2. And I think I should definitely add the key takeaways of each frame to the caption of the chart. I will incorporate this when I make my final deliverable.  
 
-3. I also think that mentioning the Paris Climate Agreement in the beginning is a good idea. I could just incorporate it into the title slide. And I would also like to mention my call to action at the start of the presentation as well as the end. It is mentioned into the end but I will also mention it when I'm showing the world map (the second wireframe).
+3. I also think that mentioning the Paris Climate Agreement in the beginning is a good idea. I could just incorporate it into the title slide, along with the call-to-action as I would like to it at the start of the presentation as well as the end.  
+
+4. I have also removed the world map chart where I was trying to show the scale of the population in Asia. I think it's fairly obvious to most people. Removing it will also free up valuable time.  
+
+**Here is a new storyboard outline with the aforementioned changes:**  
+
+![REV_2](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Revised_2.png)  
