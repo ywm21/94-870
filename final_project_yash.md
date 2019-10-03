@@ -86,5 +86,13 @@ Macro Outline of Storyboard
 
 3. This interviewee is from a low income country with a small population. The interviewee is a senior at Tepper School, majoring in  Business Management. The interviewee is also pursuing a double major in Statistics and has taken courses in data visualization. The interviewee believes that the storyboard is logical and to the point. The interviewee was not losing interest at any point but felt that the presentation was a little fast. "For someone who has background knowledge of the Paris Climate Agreement, this would not be very fast. For everyone else, it is a bit fast", said the interviewee. The interviewee recommended that I mention the Paris Climate Agreement in the introductory slides because he was blindsided when it showed up at the very end. The interviewee also recommended that I present my call-to-action at the start of the presentation and at the end. I agree with this.  
 
-**Changes to Implement:**  
+**Changes to Implement:**  Based on the recommendations of the interiewees and my own review, I feel that the following changes would help the presentation to a large extent:  
 
+1. I agree with that the charts need to be trimmed. There is too much content on the charts and I have only about 15 seconds to present all the relevant information. And I read in the Good Charts book that every time someone sees a new chart, they take about 10 seconds to just read the chart and then start listening to what the presenter has to say. So to make it as efficient as possible, here is an example of a revised chart:  
+
+![REV_1](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Revised_1.png)  
+Revision of Wireframe 4  
+
+2. And I think I should definitely add the key takeaways of each frame to the caption of the chart. I will incorporate this when I make my final deliverable.  
+
+3. I also think that mentioning the Paris Climate Agreement in the beginning is a good idea. I could just incorporate it into the title slide. And I would also like to mention my call to action at the start of the presentation as well as the end. It is mentioned into the end but I will also mention it when I'm showing the world map (the second wireframe).
