@@ -63,7 +63,7 @@ Macro Outline of Storyboard
 
 ### 6. User Research Protocol  
 
-**Target Audience:** The target audience for this story could be anyone. Since it is a global issue, almost anyone will relate to it. While every viewer's opinion about the issue may not be the same, they are all definitely part of the target audience.    
+**Target Audience:** The perfect target audience for this story would be the UN delegates of each signatory country. They are the only people who could act on the call-to-action of this story. Additionally, the target audience would also include decision makers of every developing and underdeveloped economy that are parties of the Paris Climate Accord.
 
 **Identifying Representative Individuals to Interview:** Since this is a presentation about various countries, I would ideally like to interview people from varied nationalities. One individual from a developed country, one from a developing country and one from a low income country. This should give me a wholistic review of my storyboard and a well-rounded opinion about the clarity of the message. Most importantly, I want individuals who have some experience in statistics and data visualization. I want to find out if my charts are able to communicate my ideas and if not, I want some technical feedback on how I can do that. 
 
