@@ -12,7 +12,7 @@
 9. Link to Shorthand (Part III)  
 10. References (Part III)
 
-### 1. Outline (Updated for Part II) 
+### 1. Outline 
 
 For my final project, I wanted to discuss CO<sub>2</sub> emissions around the globe. The Paris Climate Agreement was signed in 2016 by 196 countries to curb the effects of global warming. Each signatory country had to reduce their footprint to achieve a larger goal across the globe. Consider the population of developing economy like India: it's over 17% of the world's population. In theory, developing economies need to burn more coal and other fossil fuels to grow their economy and supply energy to a larger population. And as an Indian, I understand the urgency of power generation in my country. Even today, a fifth of India's population (239 million people) does not have access to electricty. In terms of emissions, one would expect that developing economies would have proportionally higher emissions (larger population and higher growth rates) than developed economies. And thus using an agreement like the one signed in Paris to curb emissions caused by developing economies makes sense. But are developing economies like India really responsible for the majority of global emissions?
 
