@@ -7,7 +7,10 @@
 4. Method and Medium  
 5. Storyboard  
 6. User Research  
-7. 
+7. Target Audience (Part III)  
+8. Project Design (Part III)  
+9. Link to Shorthand (Part III)  
+10. References (Part III)
 
 ### 1. Outline (Updated for Part II) 
 
@@ -103,5 +106,25 @@ Revision of Wireframe 4
 
 ![REV_2](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Revised_2.png)  
 
-<script src="https://embed.shorthand.com/embed_6.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/ywm/"><h1>CO2 EMISSIONS</h1><p>Is the Paris Climate Agreement Unfair To Developing Economies?</p></div>
+### 7. Target Audience
+
+The target audience for my project is the general assembly of the United Nations. The call-to-action of this story can only be fulfilled by policy makers who can affect change. All the statistics that I've presented in this story are based on continents because I didn't want to single out any nation in particular. Carbon emissions are a global issue and we can only address it by working together on it.  
+
+During class, I presented my wireframes to other students. They informed me that my original call-to-action could be perceived as hostile to the audience. So I changed it to make it more inclusive, and refrain from throwing blame. I truly believe that my target audience will understand the issue at hand and agree with the call-to-action. This issue had been raised quite a few times during negotiations of the climate accord.  
+
+[ADD ANOTHER PARA]  
+
+### 8. Project Design  
+
+The biggest challenge that I faced was weaving the storyline. While the issue of my story is important and relevant, it can be perceieved as hostile to certain audiences. And I wanted the story to be an eye opener for my audience. I had multiple outlines that I edited dozens of times. Finally, I was able to weave a story that asks for help instead of assigning blame. Climate change is one of the biggest challenges that we face but at the same time, millions of people have no access to electricity even today. So the question is - is it justified to burn more fuel to fulfill basic needs? And this is what I want to elucidate in my presentation.  
+
+Another challenge was building the graphs on Tableau. Since my charts are not normal bar charts or histograms, it was challenging to implement that on Tableau. I had to understand how to keep running counts on the x-axis, which took a lot of trial and error. Also since all the data was country-wise, I had to manually group countries together into continents. That took a lot of time as well.  
+
+The most interest part of this presentation was definitely Shorthand. This is the first time I've used that tool and I really loved it. My presentations have never looked so elegant before. The learning curve was easy as well. I was designing my sections after just 20 minutes of learning Shorthand. It did take some time to gather all the images, MP4 files and write the content, but having designed a storyboard made the process fairly easy. I knew exactly what was going where.  
+
+### 9. Link to Shorthand Presentation
+
+Link: https://carnegiemellon.shorthandstories.com/ywm/index.html  
+
+### 10. References
+
