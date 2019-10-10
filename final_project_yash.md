@@ -1,12 +1,13 @@
-## Final Project Page (Part 2)  
+## Final Project Page
 
 ### Table of Contents:  
-1. Outline (Updated for Part II)
-2. Initial Sketches
-3. Data
-4. Method and Medium
-5. Storyboard (Part II)  
-6. User Research (Part II)  
+1. Outline  
+2. Initial Sketches  
+3. Data  
+4. Method and Medium  
+5. Storyboard  
+6. User Research  
+7. 
 
 ### 1. Outline (Updated for Part II) 
 
@@ -101,3 +102,6 @@ Revision of Wireframe 4
 **Here is a new storyboard outline with the aforementioned changes:**  
 
 ![REV_2](https://raw.githubusercontent.com/ywm21/94-870/master/final_project_files/Revised_2.png)  
+
+<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/ywm/"><h1>CO2 EMISSIONS</h1><p>Is the Paris Climate Agreement Unfair To Developing Economies?</p></div>
