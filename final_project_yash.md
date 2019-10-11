@@ -1,16 +1,19 @@
 ## Final Project Page
 
-### Table of Contents:  
+### Table of Contents: 
+**Part 1**  
 1. Outline  
 2. Initial Sketches  
 3. Data  
 4. Method and Medium  
+**Part 2**  
 5. Storyboard  
 6. User Research  
-7. Target Audience (Part III)  
-8. Project Design (Part III)  
-9. Link to Shorthand (Part III)  
-10. References (Part III)
+**Part 3**  
+7. Target Audience   
+8. Project Design   
+9. Link to Shorthand   
+10. References  
 
 ### 1. Outline 
 
@@ -110,9 +113,7 @@ Revision of Wireframe 4
 
 The target audience for my project is the general assembly of the United Nations. The call-to-action of this story can only be fulfilled by policy makers who can affect change. All the statistics that I've presented in this story are based on continents because I didn't want to single out any nation in particular. Carbon emissions are a global issue and we can only address it by working together on it.  
 
-During class, I presented my wireframes to other students. They informed me that my original call-to-action could be perceived as hostile to the audience. So I changed it to make it more inclusive, and refrain from throwing blame. I truly believe that my target audience will understand the issue at hand and agree with the call-to-action. This issue had been raised quite a few times during negotiations of the climate accord.  
-
-[ADD ANOTHER PARA]  
+During class, I presented my wireframes to other students. They informed me that my original call-to-action could be perceived as hostile to the audience. So I changed it to make it more inclusive, and refrain from throwing blame. I truly believe that my target audience will understand the issue at hand and agree with the call-to-action. This issue had actually been raised quite a few times during negotiations of the climate accord. So it does have a very solid basis for discussion.   
 
 ### 8. Project Design  
 
@@ -128,3 +129,13 @@ Link: https://carnegiemellon.shorthandstories.com/ywm/index.html
 
 ### 10. References
 
+1. https://ourworldindata.org/grapher/world-banks-income-groups?year=2016  
+2. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#annual-co2-emissions  
+3. https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#per-capita-co2-emissions  
+4. https://ourworldindata.org/grapher/projected-population-by-country 
+5. https://futureoflife.org/2016/08/05/developing-countries-cant-afford-climate-change/?cn-reloaded=1
+6. https://www.tdworld.com/overhead-transmission/worlds-biggest-ultra-high-voltage-line-powers-across-china
+7. https://amp.businessinsider.com/images/5bb224313d9ef700528b4568-750-421.jpg
+8. https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/News/general-health/961-air_pollution_and_premature_death-1296x728-header.jpg?w=1155
+9. https://www.videvo.net/video/power-station-timelapse-at-night/2862/
+10. Tableau software for charts
